@@ -39,6 +39,10 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['FNR Team'],
+			['Robprogramador',			'rob',				'Owner/musician - im just a normal guy',						'https://x.com/Rob_Programador?t=umKBuewqlkthqQIMmYDubg&s=09',	'29499C'],
+			['Gloshtlter',			'phantom',			'Artist/Charter - Chale me humillo',		'https://x.com/da_GloshtlTer_0?t=6f7HDVquZW1asbjX179KPQ&s=09',		'F4BDB1'],
+			[''],
 			['Mobile Porting Team'],
 			['mcagabe19',			'lily',				'Head Porter of Psych Engine Mobile',						'https://www.youtube.com/@mcagabe19',	'FFE7C0'],
 			['Karim Akra',			'karim',			'Assistant Porter/Helper #1 of Psych Engine Mobile',		'https://youtube.com/@Karim0690',		'FFB4F0'],
