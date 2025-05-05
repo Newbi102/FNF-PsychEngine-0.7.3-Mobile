@@ -55,7 +55,7 @@ class StorageUtil
 	#if android
 	// always force path due to haxe
 	public static function getExternalStorageDirectory():String
-		return '/sdcard/.PsychEnginePort/';
+		return '/sdcard//';
 
 	public static function requestPermissions():Void
 	{
