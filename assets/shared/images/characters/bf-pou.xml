@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-pou.png">
+<SubTexture name="idle0000" x="387" y="1428" width="343" height="323" frameX="-340" frameY="-384" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0001" x="1605" y="0" width="338" height="328" frameX="-343" frameY="-378" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0002" x="1273" y="672" width="332" height="335" frameX="-346" frameY="-370" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0003" x="769" y="748" width="327" height="340" frameX="-350" frameY="-365" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0004" x="919" y="351" width="322" height="341" frameX="-353" frameY="-363" frameWidth="767" frameHeight="767" />
+<SubTexture name="left0000" x="383" y="748" width="386" height="346" frameX="-275" frameY="-362" frameWidth="767" frameHeight="767" />
+<SubTexture name="left0001" x="0" y="748" width="383" height="347" frameX="-278" frameY="-360" frameWidth="767" frameHeight="767" />
+<SubTexture name="left0002" x="307" y="381" width="377" height="351" frameX="-285" frameY="-355" frameWidth="767" frameHeight="767" />
+<SubTexture name="down0000" x="1090" y="1095" width="349" height="329" frameX="-335" frameY="-380" frameWidth="767" frameHeight="767" />
+<SubTexture name="down0001" x="0" y="1095" width="336" height="333" frameX="-344" frameY="-375" frameWidth="767" frameHeight="767" />
+<SubTexture name="down0002" x="1273" y="0" width="332" height="336" frameX="-349" frameY="-371" frameWidth="767" frameHeight="767" />
+<SubTexture name="right0000" x="730" y="1428" width="394" height="317" frameX="-362" frameY="-391" frameWidth="767" frameHeight="767" />
+<SubTexture name="right0001" x="0" y="1428" width="387" height="324" frameX="-361" frameY="-383" frameWidth="767" frameHeight="767" />
+<SubTexture name="right0002" x="336" y="1095" width="377" height="330" frameX="-361" frameY="-376" frameWidth="767" frameHeight="767" />
+<SubTexture name="bf-pou up0000" x="0" y="0" width="304" height="381" frameX="-379" frameY="-322" frameWidth="767" frameHeight="767" />
+<SubTexture name="bf-pou up0001" x="304" y="0" width="308" height="371" frameX="-373" frameY="-333" frameWidth="767" frameHeight="767" />
+<SubTexture name="bf-pou up0002" x="612" y="0" width="307" height="367" frameX="-367" frameY="-337" frameWidth="767" frameHeight="767" />
+<SubTexture name="missl0000" x="919" y="0" width="354" height="351" frameX="-306" frameY="-355" frameWidth="767" frameHeight="767" />
+<SubTexture name="missL0000" x="919" y="0" width="354" height="351" frameX="-308" frameY="-355" frameWidth="767" frameHeight="767" />
+<SubTexture name="missd0000" x="1273" y="336" width="332" height="336" frameX="-349" frameY="-373" frameWidth="767" frameHeight="767" />
+<SubTexture name="missd0001" x="1273" y="336" width="332" height="336" frameX="-349" frameY="-371" frameWidth="767" frameHeight="767" />
+<SubTexture name="missr0000" x="713" y="1095" width="377" height="330" frameX="-363" frameY="-376" frameWidth="767" frameHeight="767" />
+<SubTexture name="missr0001" x="713" y="1095" width="377" height="330" frameX="-361" frameY="-376" frameWidth="767" frameHeight="767" />
+<SubTexture name="missu0000" x="0" y="381" width="307" height="367" frameX="-367" frameY="-336" frameWidth="767" frameHeight="767" />
+<SubTexture name="missu0001" x="0" y="381" width="307" height="367" frameX="-367" frameY="-337" frameWidth="767" frameHeight="767" />
+</TextureAtlas>

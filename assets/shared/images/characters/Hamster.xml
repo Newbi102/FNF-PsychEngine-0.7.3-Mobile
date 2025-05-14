@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hamster.png">
+<SubTexture name="idle0000" x="0" y="0" width="501" height="595" frameX="-133" frameY="-197" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0001" x="501" y="0" width="502" height="596" frameX="-132" frameY="-197" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0002" x="0" y="596" width="503" height="595" frameX="-131" frameY="-198" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0003" x="503" y="596" width="505" height="592" frameX="-128" frameY="-201" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0004" x="0" y="1191" width="511" height="590" frameX="-123" frameY="-204" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0005" x="0" y="1191" width="511" height="590" frameX="-123" frameY="-204" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0006" x="0" y="1191" width="511" height="590" frameX="-123" frameY="-204" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0007" x="0" y="596" width="503" height="595" frameX="-131" frameY="-198" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0008" x="511" y="1191" width="807" height="807" frameX="0" frameY="0" frameWidth="767" frameHeight="767" />
+<SubTexture name="idle0009" x="0" y="0" width="501" height="595" frameX="-133" frameY="-197" frameWidth="767" frameHeight="767" />
+</TextureAtlas>
